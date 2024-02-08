@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "jasmine": "^5.1.0"
+  }
+  ,
+  "script": {
+    "test":"jasmine"
+    
+  }
+}
